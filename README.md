@@ -1,4 +1,18 @@
-### Hi there 👋
+### Olá ✌️ 
+
+Eu sou o Michael, Programador Front-end, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+
+- <img border-radius="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="image-html" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="image-css" />
+<br>
+
+[![Michael stats](https://github-readme-stats.vercel.app/api?username=michaelcharles&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcharlesdm)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **michaelcharlesdm/michaelcharlesdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
