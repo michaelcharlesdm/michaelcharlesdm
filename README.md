@@ -8,9 +8,9 @@ Eu sou o Michael, Programador Front-end, atualmente estou aprendendo e criando p
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="image-css" />
 <br>
 
-[![Michael stats](https://github-readme-stats.vercel.app/api?username=michaelcharles&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael stats](https://github-readme-stats.vercel.app/api?username=michaelcharlesdm&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcharlesdm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcharlesdm&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
